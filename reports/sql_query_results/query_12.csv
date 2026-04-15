@@ -1,0 +1,11 @@
+location,total_customers,total_revenue,average_purchase_amount,subscriber_share_pct
+Montana,96,5784.0,60.25,26.04
+Illinois,92,5617.0,61.05,23.91
+California,95,5605.0,59.0,30.53
+Idaho,93,5587.0,60.08,20.43
+Nevada,87,5514.0,63.38,34.48
+Alabama,89,5261.0,59.11,24.72
+New York,87,5257.0,60.43,24.14
+North Dakota,83,5220.0,62.89,28.92
+West Virginia,81,5174.0,63.88,34.57
+Nebraska,87,5172.0,59.45,28.74

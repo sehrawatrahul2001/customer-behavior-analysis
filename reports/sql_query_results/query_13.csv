@@ -1,0 +1,25 @@
+customer_lifetime_segment,shipping_type,total_customers,average_spend,average_rating
+Growth Customer,Free Shipping,60,52.82,3.85
+Growth Customer,Express,46,52.61,3.8
+Growth Customer,Next Day Air,57,51.33,3.85
+Growth Customer,Store Pickup,46,49.02,3.58
+Growth Customer,2-Day Shipping,40,47.75,3.7
+Growth Customer,Standard,44,45.82,3.98
+High-Value Customer,2-Day Shipping,459,64.63,3.77
+High-Value Customer,Express,462,64.38,3.78
+High-Value Customer,Store Pickup,461,64.25,3.7
+High-Value Customer,Free Shipping,479,63.73,3.73
+High-Value Customer,Next Day Air,454,62.53,3.7
+High-Value Customer,Standard,466,62.29,3.81
+Loyal Customer,Free Shipping,114,50.61,3.66
+Loyal Customer,2-Day Shipping,102,49.35,3.77
+Loyal Customer,Standard,123,49.21,3.78
+Loyal Customer,Express,109,47.1,3.73
+Loyal Customer,Next Day Air,110,45.89,3.72
+Loyal Customer,Store Pickup,113,45.85,3.74
+New Customer,Store Pickup,30,62.6,3.88
+New Customer,Express,29,61.03,3.84
+New Customer,Next Day Air,27,60.44,3.77
+New Customer,Free Shipping,22,59.59,3.37
+New Customer,2-Day Shipping,26,56.5,3.8
+New Customer,Standard,21,54.14,3.93

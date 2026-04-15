@@ -1,0 +1,7 @@
+payment_method,total_orders,total_revenue,average_order_value
+Credit Card,671,40310.0,60.07
+PayPal,677,40109.0,59.25
+Cash,670,40002.0,59.7
+Debit Card,636,38742.0,60.92
+Venmo,634,37374.0,58.95
+Bank Transfer,612,36544.0,59.71
