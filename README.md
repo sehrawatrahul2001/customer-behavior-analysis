@@ -72,3 +72,11 @@ python3 python/export_customer_sql_results.py
 ## Why This Project Stands Out
 
 This case study is intentionally framed like a retail decision-support engagement. It reflects Rahul Sehrawat's operations background by focusing on retention economics, customer quality, and practical business action instead of only descriptive charts.
+
+## Dataset Note
+
+The original datasets used in this project were large and simulated real-world business scenarios.
+
+Due to GitHub file size limitations, full datasets are not included in this repository.
+
+However, all analysis, processed outputs, and insights are fully available to demonstrate the complete workflow and business impact.
