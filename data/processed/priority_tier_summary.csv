@@ -1,0 +1,5 @@
+customer_priority_tier,customer_count,total_revenue,average_spend
+Nurture,1544,89031,57.66256476683938
+Retain,1151,71740,62.328410078192874
+Protect,611,49231,80.57446808510639
+Low Priority,594,23079,38.85353535353536

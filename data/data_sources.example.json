@@ -1,0 +1,11 @@
+{
+  "local_file_paths": [
+    "~/Desktop/customer_shopping_behavior.csv"
+  ],
+  "direct_url": "",
+  "google_drive_file_id": "",
+  "kaggle": {
+    "dataset": "",
+    "notes": "Use this only if the Kaggle dataset exports the same customer_shopping_behavior.csv filename."
+  }
+}

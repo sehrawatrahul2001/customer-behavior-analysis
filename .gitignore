@@ -1,0 +1,17 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+*.db
+*.xlsx
+*.pbix
+.DS_Store
+
+data/raw/**
+!data/raw/README.md
+
+*.csv
+!data/sample/*.csv
+!data/processed/*.csv
+!reports/sql_query_results/*.csv
+
+data/data_sources.json

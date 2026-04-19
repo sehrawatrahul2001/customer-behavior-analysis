@@ -10,7 +10,7 @@ from validate_customer_sql import ensure_sqlite_database, split_sql_queries
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SQL_FILE_PATH = PROJECT_ROOT / "sql" / "customer_behavior_revenue_queries.sql"
+SQL_FILE_PATH = PROJECT_ROOT / "scripts" / "sql" / "customer_behavior_revenue_queries.sql"
 OUTPUT_DIR = PROJECT_ROOT / "reports" / "sql_query_results"
 MARKDOWN_REPORT_PATH = PROJECT_ROOT / "reports" / "sql_validation_report.md"
 

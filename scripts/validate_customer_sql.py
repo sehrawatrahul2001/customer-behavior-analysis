@@ -16,7 +16,7 @@ from customer_behavior_revenue_insights import (
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SQL_FILE_PATH = PROJECT_ROOT / "sql" / "customer_behavior_revenue_queries.sql"
+SQL_FILE_PATH = PROJECT_ROOT / "scripts" / "sql" / "customer_behavior_revenue_queries.sql"
 
 
 def split_sql_queries(sql_text: str) -> list[str]:

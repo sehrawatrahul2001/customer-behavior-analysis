@@ -2,33 +2,22 @@
 
 ## Executive Summary
 
-The analysis shows that revenue is driven disproportionately by customers with stronger purchase history, while subscription behavior and category mix help explain which customer groups offer the highest long-term value. The project reframes a retail dataset into a leadership-ready view of retention, revenue quality, and customer targeting.
+This project shows that customer revenue is concentrated in a manageable set of segments and categories, which makes targeted retention materially more valuable than broad promotional activity. The upgraded workflow now surfaces not only who spends more, but also who should be protected, nurtured, or reactivated.
 
-## Key Findings
+## Five Key Insights
 
-### 1. Revenue quality is strongest among repeat and high-value customers
+1. The dataset covers **3,900 customers** and **$233.08K** in revenue.
+2. `Clothing` and `Accessories` contribute **$178.46K**, or about **76.6%** of total revenue.
+3. Non-subscribers generate **$170.44K**, representing **73.1%** of the revenue base.
+4. The `Protect` priority tier contains **611 customers** and delivers **$49.23K** in revenue with the highest average spend.
+5. The pipeline identifies **229 high-risk customers**, making the project useful for retention targeting rather than reporting only.
 
-Customers with deeper purchase history create a larger share of revenue, making retention economics more valuable than focusing only on first-time demand generation.
+## Three Business Recommendations
 
-### 2. Subscription behavior is commercially meaningful
+- Build retention programs around `Protect` and `Retain` customers before expanding broad acquisition campaigns.
+- Convert high-spend non-subscribers into subscription-linked customers using targeted offers and loyalty messaging.
+- Focus promotions on the highest-performing categories and locations instead of using undifferentiated discounting.
 
-Subscribers are not just another customer flag. They represent stronger engagement and should be treated as a practical segment for retention and lifetime-value strategy.
+## Business Impact Statement
 
-### 3. Category demand is concentrated
-
-Clothing and accessories contribute the strongest category performance, suggesting a clearer case for focused promotions, inventory planning, and targeted customer communication.
-
-### 4. Discounts should be selective
-
-Discount usage supports demand, but the dataset shows that volume alone does not guarantee the best revenue outcome. Targeted promotions are likely to outperform broad discounting.
-
-### 5. Location and service patterns matter
-
-Revenue varies across locations, shipping types, and payment methods, giving the business a stronger basis for local action and customer-experience improvement.
-
-## Recommendations
-
-- strengthen loyalty and retention initiatives around repeat and high-value customers
-- expand subscriber-focused communication and benefits
-- prioritize promotions in proven categories rather than using broad discount campaigns
-- use location and payment behavior to support more targeted commercial execution
+Converting **10%** of non-subscriber revenue into subscription-linked revenue would shift approximately **$17.04K** into a more stable customer segment.
